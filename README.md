@@ -1,15 +1,15 @@
 ### Desenvolvedora Front end, UI Design e ilustradora. &#127803;
 
- <br>
 <div>
   <a href="https://github.com/MariaEmilia92">
    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaEmilia92&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars,issues,contribs"/>
+   </div>
+ 
+ <br>
    
-   <br>
-   
+ <div>
    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEmilia92&layout=compact&langs_count=6&theme=dracula"/>
-  
-</div>
+  </div>
  
  <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,5 +27,3 @@
   <a href="https://www.linkedin.com/in/maria-em%C3%ADlia-martins-676b91bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
  
- 
-
