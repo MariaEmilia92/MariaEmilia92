@@ -1,4 +1,4 @@
-### Desenvolvedora Front-end &#127803;
+### Web Design | UI Design | Front-end. &#127803;
 
  <div>
   <a href="https://github.com/MariaEmilia92">
