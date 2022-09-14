@@ -1,4 +1,4 @@
-### Web Design | UI Design | Front-end. &#127803;
+### Front-end | Designer | Ilustradora. &#127803;
 
  <div>
   <a href="https://github.com/MariaEmilia92">
