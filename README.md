@@ -1,4 +1,4 @@
-### Front-end | Designer | Ilustradora. &#127803;
+### Desenvolvedora Front-End | Web/Graphic Design. &#127803;
 
  <div>
   <a href="https://github.com/MariaEmilia92">
