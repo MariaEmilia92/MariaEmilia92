@@ -1,24 +1,22 @@
-### Desenvolvedora Front-end | Web/Graphic/UI Designer. &#127803;
-
- <div>
-  <a href="https://github.com/MariaEmilia92">
-   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaEmilia92&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues,contribs"/>
-   </div>
+<h1> Desenvolvedora Front-end &#129470;</h1>
  
- <br>
-   
- <div>
-   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEmilia92&layout=compact&langs_count=6&theme=dracula"/>
-  </div>
- 
+<h3>Olá!</h3>
+<p>Me chamo Maria Emília e sou uma profissional com mais de 11 anos de experiência como Designer/Web Designer. A partir de 2021, adentrei no mundo do desenvolvimento Front-end, onde combino minha expertise em design com habilidades técnicas sólidas. Em meus projetos, priorizo a qualidade estética e a organização, reflexo da minha trajetória profissional diversificada.</p>
+<p>Sou uma pessoa comprometida, pontual e comunicativa, características que me permitem trabalhar de forma eficiente em equipe e atender às expectativas dos clientes e stakeholders. Tenho um forte desejo de aprendizado contínuo e estou constantemente buscando aprimorar minhas habilidades técnicas e conhecimentos em novas tecnologias.</p>
+<p>Estou entusiasmada em colaborar em projetos desafiadores e empolgantes, onde posso aplicar minha paixão pelo design e desenvolvimento web. Se você procura alguém que traga um toque de criatividade, qualidade e comprometimento aos seus projetos, estou aqui para ajudar!</p>
  <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="sass" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />      
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
+  <img  align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" />
+  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />       
   <img align="center" alt="sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="sass" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+
           
  </div>
  
