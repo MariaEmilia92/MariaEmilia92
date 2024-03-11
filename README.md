@@ -1,10 +1,10 @@
-<h1> Desenvolvedora Front-end &#129470;</h1>
+<h2> Front end Engineer | Software Engineer </h2>
  
-<h3>Olá!</h3>
-<p>Me chamo Maria Emília e sou uma profissional com mais de 11 anos de experiência como Designer/Web Designer. A partir de 2021, adentrei no mundo do desenvolvimento Front-end, onde combino minha expertise em design com habilidades técnicas sólidas. Em meus projetos, priorizo a qualidade estética e a organização, reflexo da minha trajetória profissional diversificada.</p>
-<p>Sou uma pessoa comprometida, pontual e comunicativa, características que me permitem trabalhar de forma eficiente em equipe e atender às expectativas dos clientes e stakeholders. Tenho um forte desejo de aprendizado contínuo e estou constantemente buscando aprimorar minhas habilidades técnicas e conhecimentos em novas tecnologias.</p>
-<p>Estou entusiasmada em colaborar em projetos desafiadores e empolgantes, onde posso aplicar minha paixão pelo design e desenvolvimento web. Se você procura alguém que traga um toque de criatividade, qualidade e comprometimento aos seus projetos, estou aqui para ajudar!</p>
-<p>Além do meu trabalho, também sou uma entusiasta de diversas atividades de lazer. Nos meus momentos de descanso, gosto de jogar video game, acompanhar séries, mergulhar em livros, praticar esportes e explorar minha criatividade através do desenho.</p>
+<h4>Hello there!</h4>
+<p>I'm Maria Emília and I’ve been rocking it as a Designer/Web Designer for over 11 years. Although, in 2021, I made a foray into the Front-end development world, merging my design skills with some tech expertise.</p>
+<p>When it comes to my projects, I'm all about that sleek and clean look, and keeping things organized, thanks to my varied professional background. I'm a real go-getter – committed, always on time, and never short on communication. I excel in team environments and enjoy fostering connections with individuals, aiming to surpass client and stakeholder expectations. Additionally, I am committed to lifelong learning, constantly exploring new technologies to enhance my skills.</p>
+<p>Outside of work, you'll find me enjoying all sorts of stuff. I'm a gamer at heart, binge-watcher of series, bookworm, sports enthusiast, and a fanatic for animations and animes. I'm pumped to dive into exciting projects where I can unleash my passion for design and web development. If you're after someone to add a sprinkle of creativity, quality, and dedication into your projects, you've found your match!</p>
+
  <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="sass" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
