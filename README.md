@@ -1,7 +1,7 @@
 <h2> Front end Engineer | Software Engineer </h2>
  
 <h4>Hello there!</h4>
-<p>I'm Maria Emília and I’ve been rocking it as a Designer/Web Designer for over 11 years. Although, in 2021, I made a foray into the Front-end development world, merging my design skills with some tech expertise.</p>
+<p>I'm Maria Emília and I’ve been rocking it as a Designer/Web Designer for over 11 years. Although, in 2021, I made a foray into the Front-end development world, merging my design skills with some tech expertise. </p>
 <p>When it comes to my projects, I'm all about that sleek and clean look, and keeping things organized, thanks to my varied professional background. I'm a real go-getter – committed, always on time, and never short on communication, aiming to surpass client and stakeholder expectations. Additionally, I excel in team environments and enjoy fostering new connections. I am committed to lifelong learning, constantly exploring new technologies to enhance my skills.</p>
 <p>Outside of work, you'll find me enjoying all sorts of stuff. I'm a gamer at heart, binge-watcher of series, bookworm, sports enthusiast, and a fanatic for animations and animes. I'm pumped to dive into exciting projects where I can unleash my passion for design and web development. If you're after someone to add a sprinkle of creativity, quality, and dedication into your projects, you've found your match!</p>
 
