@@ -2,8 +2,11 @@
  
 <h4>Hello there!</h4>
 <p>I’m a software engineer specializing in front-end development, and I love turning ideas into beautiful, functional, and purposeful interfaces. I work with React, Next.js, TypeScript, JavaScript, and Angular, and I also create app interfaces using React Native. I have experience solving complex problems, creating efficient solutions with modern technologies, and working with legacy systems.
+ 
 I participate in the complete development of websites, internal systems, apps, and blogs — from business engineering and prototyping in Figma to deployment. I enjoy combining code with creativity: animating components with Lottie (JSON), creating vector illustrations in SVG, writing tests with Jest, debugging, and collaborating with the team to ensure the best possible experience.
+
 I believe that good interfaces solve problems and tell stories. And that’s what drives me: finding creative and effective solutions through code.
+
 Main stack: React, Next.js, TypeScript, JavaScript, Angular, RxJS, React Native, Axios, CSS, SCSS, Tailwind, Jest, Lottie, Figma, PHP, jQuery, Node.js, SQL.
 Other skills: MongoDB, MySQL, PHPMyAdmin, Git, Visual Studio Code, Android Studio, Adobe Photoshop, Adobe Illustrator, Lightroom, Procreate, Canva, Adobe XD, Adobe After Effects, Adobe Premiere, Adobe Animate, Toon Boom, 3ds Max, Mudbox, Blender, VideoScribe.
 
