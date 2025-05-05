@@ -1,9 +1,13 @@
 <h2> Front end Engineer | Software Engineer </h2>
  
 <h4>Hello there!</h4>
-<p>I'm Maria Emília and I’ve been rocking it as a Designer/Web Designer for over 11 years. Although, in 2022, I made a foray into the Front-end development world, merging my design skills with some tech expertise. </p>
-<p>When it comes to my projects, I'm all about that sleek layout, together with a clean and well-structured code, thanks to my varied professional background. I'm a real go-getter – committed, always on time, and never short on communication, aiming to surpass client and stakeholder expectations. Additionally, I excel in team environments and enjoy fostering new connections. I am committed to lifelong learning, constantly exploring new technologies to enhance my skills.</p>
-<p>Outside of work, you'll find me enjoying all sorts of stuff. I'm a gamer at heart, binge-watcher of series, bookworm, sports enthusiast, and a fanatic for animations and animes. I'm pumped to dive into exciting projects where I can unleash my passion for design and web development. If you're after someone to add a sprinkle of creativity, quality, and dedication into your projects, you've found your match!</p>
+<p>I’m a software engineer specializing in front-end development, and I love turning ideas into beautiful, functional, and purposeful interfaces. I work with React, Next.js, TypeScript, JavaScript, and Angular, and I also create app interfaces using React Native. I have experience solving complex problems, creating efficient solutions with modern technologies, and working with legacy systems.
+I participate in the complete development of websites, internal systems, apps, and blogs — from business engineering and prototyping in Figma to deployment. I enjoy combining code with creativity: animating components with Lottie (JSON), creating vector illustrations in SVG, writing tests with Jest, debugging, and collaborating with the team to ensure the best possible experience.
+I believe that good interfaces solve problems and tell stories. And that’s what drives me: finding creative and effective solutions through code.
+Main stack: React, Next.js, TypeScript, JavaScript, Angular, RxJS, React Native, Axios, CSS, SCSS, Tailwind, Jest, Lottie, Figma, PHP, jQuery, Node.js, SQL.
+Other skills: MongoDB, MySQL, PHPMyAdmin, Git, Visual Studio Code, Android Studio, Adobe Photoshop, Adobe Illustrator, Lightroom, Procreate, Canva, Adobe XD, Adobe After Effects, Adobe Premiere, Adobe Animate, Toon Boom, 3ds Max, Mudbox, Blender, VideoScribe.
+
+Outside of work, I enjoy playing video games, binge-watching series and anime, traveling, practicing sports, and spending time with loved ones.</p>
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
